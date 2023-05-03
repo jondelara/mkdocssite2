@@ -15,3 +15,5 @@ Automation test.
 
 
 ### phone test
+
+Editing from page.
