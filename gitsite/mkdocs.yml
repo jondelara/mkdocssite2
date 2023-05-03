@@ -4,6 +4,6 @@ theme:
   features:
     - content.action.edit
     - content.action.view
-repo_url: https://github.com/squidfunk/mkdocs-material
-repo_name: squidfunk/mkdocs-material
-edit_uri: edit/main/docs/
+repo_url: https://github.com/jondelara/mkdocssite2
+repo_name: jondelara/mkdocssite2
+edit_uri: edit/main/gitsite/docs
